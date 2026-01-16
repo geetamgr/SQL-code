@@ -1,0 +1,6 @@
+-- Test the lot of layoff
+-- company when layoff start
+-- year of layoff
+-- per month layoff using rolling total
+-- multiple CTE with companies
+-- total company layoff in year with 5rank from 2020-2023
